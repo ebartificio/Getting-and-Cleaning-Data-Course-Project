@@ -1,6 +1,6 @@
 #Here is the running code on tidying Human Activity Recognition Using Smartphones Dataset
 #as part of COURSERA-JHU Getting and Cleaning the Data module.
-#Submitted by: EDCEL ARTIFICIO/ebartificio@pup.edu.ph
+#Submitted by: EDCEL ARTIFICIO
 
 #Functionalities used in this code were made possible using the dplyr package.
 > library(dplyr)
