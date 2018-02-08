@@ -79,13 +79,14 @@ Tidy Dataset
 
     3. Factor for Activity Columns have 6 composition. All of these were executed by a total of 30 Subjects.
 
-      1 WALKING
-      2 WALKING_UPSTAIRS
-      3 WALKING_DOWNSTAIRS
-      4 SITTING
-      5 STANDING
-      6 LAYING
-
+            1 WALKING
+            2 WALKING_UPSTAIRS
+            3 WALKING_DOWNSTAIRS
+            4 SITTING
+            5 STANDING
+            6 LAYING
+      
+      
     4. Aside from the Activity column which is a character data type and the Subject column with integer data type  the rest 
        of the columns keep a numeric value.
 
