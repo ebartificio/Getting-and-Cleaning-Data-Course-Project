@@ -86,10 +86,6 @@ Tidy Dataset
       5 STANDING
       6 LAYING
 
-
-
     4. Aside from the Activity column which is a character data type and the Subject column with integer data type  the rest 
-        of the columns keep a numeric value.
-
-
+       of the columns keep a numeric value.
 
