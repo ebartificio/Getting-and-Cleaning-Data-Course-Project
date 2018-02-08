@@ -54,5 +54,5 @@ Summary of Process for Analysis:
       method using the "%>%" function to group and summarize it. We then store it to MeanFinalData.
       
   7. Lastly, we will extract the cleaned and tidy dataset into a text file using the "write.table" function with the file name
-      run_analysis.R
+     TidyData.txt
      
