@@ -1,10 +1,10 @@
-Tidy Dataset
+###Tidy Dataset###
 
-  1. The dataset has the following dimension:
+  ##1. The dataset has the following dimension:##
             -Observations/Rows- 180
             -Variables/Column-  68
     
-    2. The variable names are:
+    ##2. The variable names are:##
 
             Column Number         Column Name
 
@@ -77,7 +77,7 @@ Tidy Dataset
             [67]                  "FrequencyDomainrequencyDomainBodyGyroscopeJerkMagnitude-Mean()"                 
             [68]                  "FrequencyDomainrequencyDomainBodyGyroscopeJerkMagnitude-StandardDeviation()"  
 
-    3. Factor for Activity Columns have 6 composition. All of these were executed by a total of 30 Subjects.
+    ##3. Factor for Activity Columns have 6 composition. All of these were executed by a total of 30 Subjects.##
 
             1 WALKING
             2 WALKING_UPSTAIRS
@@ -87,6 +87,6 @@ Tidy Dataset
             6 LAYING
       
       
-    4. Aside from the Activity column which is a character data type and the Subject column with integer data type  the rest 
-       of the columns keep a numeric value.
+    ##4. Aside from the Activity column which is a character data type and the Subject column with integer data type  the rest 
+       of the columns keep a numeric value.##
 
