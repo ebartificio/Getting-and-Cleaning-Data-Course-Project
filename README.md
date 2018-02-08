@@ -8,7 +8,7 @@ multiple related tables which represents computational value from the study.
 The goal here is to make connection to these table and provide essential information specifically the mean of the activities 
 conducted during the experiment. The untidy dataset can be accessed by accessing https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-Students should create one R script called run_analysis.R that does the following.
+### Students should create one R script called run_analysis.R that does the following.
 
     1. Merges the training and the test sets to create one data set.
     2. Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -20,7 +20,7 @@ Students should create one R script called run_analysis.R that does the followin
 The goal here is to put together 8 individual tables which are saved on a text file. Since the study was conducted on two 
 different instance- test and train, it produces two sets of label(y), result(x) and subject.
 
-Summary of Process for Analysis:
+### Summary of Process for Analysis:
 
   1. Load all tables, which are listed below, from the dataset using the read.table function.
     - 'train/X_train.txt': Training set.
